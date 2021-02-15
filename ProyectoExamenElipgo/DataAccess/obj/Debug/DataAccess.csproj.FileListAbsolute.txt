@@ -14,3 +14,17 @@ C:\Users\lenovo\source\repos\ApiZapatos\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\lenovo\source\repos\ApiZapatos\DataAccess\obj\Debug\DataAccess.pdb
 C:\Users\lenovo\source\repos\ApiZapatos\DataAccess\obj\Debug\DataAccess.Migrations.InicialDbContext.resources
 C:\Users\lenovo\source\repos\ApiZapatos\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\BusinessEntities.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\BusinessEntities.pdb
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\DataAccess\obj\Debug\DataAccess.pdb

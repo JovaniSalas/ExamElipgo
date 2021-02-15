@@ -51,11 +51,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202102142058150_InicialDbContext.cs" />
-    <Compile Include="Migrations\202102142058150_InicialDbContext.designer.cs">
-      <DependentUpon>202102142058150_InicialDbContext.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ShoeShopDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -68,11 +63,6 @@
       <Project>{a20ba439-3ba8-432b-889a-0a953d0a43ca}</Project>
       <Name>BusinessEntities</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\202102142058150_InicialDbContext.resx">
-      <DependentUpon>202102142058150_InicialDbContext.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Content Include="ScriptInserDatas\Insert Articles.sql" />
