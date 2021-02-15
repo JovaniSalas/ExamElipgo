@@ -1,7 +1,6 @@
 Desarrollador: Ing. Jovani Salas Cruz
-Ejecutar el proyecto en Visual Studio 2019
 Nota: Había iniciado con idioma español pero al ver el requerimiento preferí poner nombre de los proyectos en ingles
-1.- Configuramos la connectionStrings el el archivo Web.Config que está en el proyecto ApiZapatos 
+1.- Configuramos la connectionStrings que está en el proyecto ApiZapatos 
 	Para apuntar la instancia del gestor de Base de Datos en otras palabras 
 	Debemos cambiar el Source
 2-. Instalar todas las dependencias que hagan falta
@@ -18,9 +17,9 @@ Nota: Había iniciado con idioma español pero al ver el requerimiento preferí pon
 5.- Abrir la consola de Administrador de Paquetes
 6.- Elejir como proyecto Predeterminado "DataAccess"
 7.- Escribir en la consola el siguiente comando "Enable-Migrations" y damos enter
-8.- Una vez finalizado el proceso del paso 5, escribimos el  siguiente comando 
+8.- Una vez finalizado el proceso del paso 7, escribimos el  siguiente comando 
 	en la consola "Add-Migration InicialTwoDbContext" y damos enter.
-9.- Ahora que ha terminado el proceso del paso 6, escribimos el  siguiente comando 
+9.- Ahora que ha terminado el proceso del paso 8, escribimos el  siguiente comando 
 	en la consola "Update-Database" y damos enter
 10.- Hemos terminado ahora nuestra Base de datos se ha creado podemos para ello abrimos 
 	 "SQL Server Managment Studio" para confirmarlo debe existir una BD con el nombre "ShoeShopBD"
@@ -34,15 +33,11 @@ Nota: Había iniciado con idioma español pero al ver el requerimiento preferí pon
 17.- Detenemos nuestra aplicacion
 18.- Verificar en el archivo App.Config del proyecto ShoeShopWF que el dominio 
 	 de la URL así como el puerto sean iguales de ser diferentes debe de cambiar 
-	 por el dominio que le mostro en el paso 13
-19.- Aquí todo va bien ejecutamos el paso 12 de nuevo y estamos listos 
+	 por el dominio que le mostro en el paso 16
+19.- Aquí todo va bien ejecutamos el paso 15 de nuevo y estamos listos 
 	 para utilizar la aplicación Windows Form
 
 Nota: las URL del API son las siguientes:
 https://localhost:44345/api/services/articles
 https://localhost:44345/api/services/stores
 https://localhost:44345/api/services/articles/stores/{store_id}
-
-
-
-
