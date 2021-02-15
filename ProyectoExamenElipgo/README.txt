@@ -1,7 +1,7 @@
 Desarrollador: Ing. Jovani Salas Cruz
 Ejecutar el proyecto en Visual Studio 2019
 Nota: Había iniciado con idioma español pero al ver el requerimiento preferí poner nombre de los proyectos en ingles
-1.- Configuramos la connectionStrings que está en el proyecto ApiZapatos 
+1.- Configuramos la connectionStrings el el archivo Web.Config que está en el proyecto ApiZapatos 
 	Para apuntar la instancia del gestor de Base de Datos en otras palabras 
 	Debemos cambiar el Source
 2-. Instalar todas las dependencias que hagan falta
