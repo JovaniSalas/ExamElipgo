@@ -26,6 +26,8 @@ Nota: Había iniciado con idioma español pero al ver el requerimiento preferí pon
 11-. En el proyecto DataAccess hay una carpeta llamada "ScriptInserDatas" abrirla. 
 12-. Existen dos archivos sql estos debes abrirlos en un nuevo query en el "SQL Server Managment Studio" 
 	 y ejecutar uno por uno
+	1.- Pripero ejecutamos el script del archivo  "Insert Stores.sql"
+	2.- Ahora Ejecutamos el script del archivo "Insert Articles.sql"
 13.- Ahora es momento de continuar con el paso 14.
 14.- Ahora es momento de ejecutar nuevamente el paso 4.
 15.- Proceder a dar Iniciar para que se ejecute toda nuestra solución
