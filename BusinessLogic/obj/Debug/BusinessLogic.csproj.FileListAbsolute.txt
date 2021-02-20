@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\BusinessEntities.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\BusinessEntities.pdb
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml

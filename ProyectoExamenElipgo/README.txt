@@ -1,4 +1,5 @@
 Desarrollador: Ing. Jovani Salas Cruz
+
 Nota: Había iniciado con idioma español pero al ver el requerimiento preferí poner nombre de los proyectos en ingles
 1.- Configuramos la connectionStrings que está en el proyecto ApiZapatos 
 	Para apuntar la instancia del gestor de Base de Datos en otras palabras 

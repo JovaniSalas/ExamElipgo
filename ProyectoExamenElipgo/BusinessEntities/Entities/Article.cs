@@ -15,5 +15,6 @@ namespace BusinessEntities
         public int total_in_shelf { get; set; }
         public int total_in_vault { get; set; }
         public Store store { get; set; }
+        public decimal descuento { get; set; }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\lenovo\source\repos\ApiZapatos\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\obj\Debug\BusinessEntities.pdb
