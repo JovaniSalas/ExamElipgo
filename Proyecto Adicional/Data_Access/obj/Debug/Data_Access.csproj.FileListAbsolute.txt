@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\bin\Debug\Data_Access.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\bin\Debug\Data_Access.pdb
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\bin\Debug\Business_Entities.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\bin\Debug\Business_Entities.pdb
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\obj\Debug\Data_Access.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\obj\Debug\Data_Access.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\obj\Debug\Data_Access.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Data_Access\obj\Debug\Data_Access.pdb

@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\bin\Debug\Business_Logic.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\bin\Debug\Business_Logic.pdb
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\bin\Debug\Business_Entities.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\bin\Debug\Data_Access.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\bin\Debug\Business_Entities.pdb
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\bin\Debug\Data_Access.pdb
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\obj\Debug\Business_Logic.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\obj\Debug\Business_Logic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\obj\Debug\Business_Logic.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\obj\Debug\Business_Logic.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Logic\obj\Debug\Business_Logic.pdb

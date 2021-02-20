@@ -8,3 +8,9 @@ C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\bin\
 C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\obj\Debug\BusinessEntities.dll
 C:\Users\lenovo\Documents\ExamElipgo2\ProyectoExamenElipgo\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\lenovo\Documents\ExamElipgo2\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\lenovo\Documents\ExamElipgo2\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\lenovo\Documents\ExamElipgo2\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\ExamElipgo2\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\ExamElipgo2\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\lenovo\Documents\ExamElipgo2\BusinessEntities\obj\Debug\BusinessEntities.pdb

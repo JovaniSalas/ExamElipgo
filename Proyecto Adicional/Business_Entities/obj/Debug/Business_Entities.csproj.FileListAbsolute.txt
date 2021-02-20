@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Entities\bin\Debug\Business_Entities.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Entities\bin\Debug\Business_Entities.pdb
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Entities\obj\Debug\Business_Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Entities\obj\Debug\Business_Entities.dll
+C:\Users\lenovo\source\repos\ProjectExamSiemens\Business_Entities\obj\Debug\Business_Entities.pdb

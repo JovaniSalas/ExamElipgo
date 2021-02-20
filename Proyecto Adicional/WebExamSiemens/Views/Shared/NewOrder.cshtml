@@ -1,0 +1,38 @@
+﻿<div class="modal fade" id="newOrderModal" tabindex="-1" role="dialog" aria-labelledby="newOrderModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <form id="fNewOrder" name="fNewOrder">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="newOrderModalLabel">Nueva Orden</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="form-group">
+                        <label for="recipient-name" class="col-form-label">Order Date:</label>
+                        <input id="OrderDate" name="OrderDate" type="date" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="recipient-name" class="col-form-label">Requiere Date:</label>
+                        <input id="RequiredDate" name="RequiredDate" type="date" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="recipient-name" class="col-form-label">Ship City:</label>
+                        <input id="ShipCity" name="ShipCity" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="recipient-name" class="col-form-label">Freight:</label>
+                        <input id="Freight" name="Freight" type="text" class="form-control" onkeypress="return filterFloat(event,this)" required>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                    <button type="submit" class="btn btn-primary" title="Guardar Orden">Guardar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

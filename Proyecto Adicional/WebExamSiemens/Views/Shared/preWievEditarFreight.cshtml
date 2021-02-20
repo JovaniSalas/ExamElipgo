@@ -1,0 +1,26 @@
+﻿<div class="modal fade" id="editFreightModal" tabindex="-1" role="dialog" aria-labelledby="editFreightModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editFreightModalLabel">Editar Freight</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="recipient-name" class="col-form-label">Freight:</label>
+                        <input id="inputOrderId" type="hidden" />
+                        <input id="inputCustomerId" type="hidden" />
+                        <input id="inputFreightE" type="text" class="form-control" onkeypress="return filterFloat(event,this)" required>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary" onclick="UpdateFreight()">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>

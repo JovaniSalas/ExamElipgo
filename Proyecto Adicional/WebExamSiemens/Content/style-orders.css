@@ -1,0 +1,54 @@
+﻿table {
+    margin-top: 6px;
+}
+
+.trboder {
+    border: 3px solid #252424;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+}
+
+    .trboder th {
+        background: #d2d2d2;
+        border-right: 3px solid #000;
+    }
+
+    .trboder td {
+        border-right: 3px solid #000;
+    }
+
+.btn-default {
+    border-color: #0c0c0c;
+    border: 2px solid;
+}
+
+.thboder-total {
+    border-left: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    font-weight: bold;
+}
+
+
+
+select {
+    border-color: #0c0c0c !important;
+    border: 2px solid !important;
+    font-weight: bold;
+}
+
+.selectrow:hover {
+    background-color: #757575 !important;
+    color: #fff !important;
+}
+
+.selectorder:hover {
+    background-color: #b5b5b5 !important;
+    color: #fff !important;
+}
+
+.active-client {
+    background-color: #a0a0a0 !important;
+    color: #fff !important;
+}

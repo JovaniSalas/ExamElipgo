@@ -1,0 +1,86 @@
+﻿@model WebExamSiemens.Models.CatalogModel
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-4 col-md-4"></div>
+    <div class="col-4 col-md-4"><h2>Seleccione Pais:</h2></div>
+    <div class="col-4 col-md-4"></div>
+</div>
+<div class="row">
+    <div class="col-4 col-md-4"></div>
+    <div class="col-4 col-md-4">
+        @Html.DropDownListFor(model => model.NameCountry,
+                             new SelectList(Model.Countries, "Value", "Text"),
+                             "Selected Selected", new { @class = "form-control", @onChange = "SelectedValue(this)" })
+    </div>
+    <div class="col-4 col-md-4"></div>
+</div>
+<div class="row">
+    <div class="col-4 col-md-4"></div>
+    <div class="col-4 col-md-4"><h2>Clientes</h2></div>
+    <div class="col-4 col-md-4"></div>
+</div>
+<div class="row">
+    <div class="col-4 col-md-4"></div>
+    <div class="col-4 col-md-4">
+        <table class="table table-hover">
+            <thead>
+                <tr class="trboder">
+                    <th>Company Name</th>
+                    <th>Contact Name</th>
+                </tr>
+            </thead>
+            <tbody id="tbodyClients">
+            </tbody>
+        </table>
+    </div>
+    <div class="col-4 col-md-4"></div>
+</div>
+
+<div class="row">
+    <div class="col-4 col-md-4">
+        <button class="btn btn-default" title="Nueva Orden">Nueva Orden</button>
+        <button class="btn btn-default" title="Eliminar Selección">Eliminar Selección</button>
+    </div>
+    <div class="col-4 col-md-4"><h2 style="margin-top: -8px;">Ordenes</h2></div>
+    <div class="col-4 col-md-4"></div>
+</div>
+
+<div class="row">
+    <div class="col-8 col-md-8">
+        <table id="tOrders" class="table table-hover">
+            <thead>
+                <tr class="trboder">
+                    <th></th>
+                    <th>Order ID</th>
+                    <th>Customer</th>
+                    <th>Empleado</th>
+                    <th>Order Date</th>
+                    <th>Requiere Date</th>
+                    <th>ShipCity</th>
+                    <th>Freight</th>
+                    <th>Editar</th>
+                </tr>
+            </thead>
+            <tbody id="tbodyOrders">
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td class="thboder-total">Total</td>
+                    <td class="thboder-total">$</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-4 col-md-4"></div>
+    <a href="java.void()" onclick="EditOrder(this.id)" title="Editar"></a>
+</div>
+@Html.Partial("NewOrder")
+@Html.Partial("preWievEditarFreight")
+
