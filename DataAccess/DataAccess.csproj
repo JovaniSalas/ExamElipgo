@@ -55,10 +55,6 @@
     <Compile Include="Migrations\202102200212115_InicialTwoDbContext.designer.cs">
       <DependentUpon>202102200212115_InicialTwoDbContext.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202102200225075_InicialTwoDbContextv2.cs" />
-    <Compile Include="Migrations\202102200225075_InicialTwoDbContextv2.designer.cs">
-      <DependentUpon>202102200225075_InicialTwoDbContextv2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ShoeShopDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -80,9 +76,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202102200212115_InicialTwoDbContext.resx">
       <DependentUpon>202102200212115_InicialTwoDbContext.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202102200225075_InicialTwoDbContextv2.resx">
-      <DependentUpon>202102200225075_InicialTwoDbContextv2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

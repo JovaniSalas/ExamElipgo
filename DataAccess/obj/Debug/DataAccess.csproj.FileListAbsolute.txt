@@ -42,7 +42,6 @@ C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\bin\Debug\EntityFramework.xml
 C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
 C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\obj\Debug\DataAccess.Migrations.InicialTwoDbContext.resources
-C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\obj\Debug\DataAccess.Migrations.InicialTwoDbContextv2.resources
 C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
 C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Documents\ExamElipgo2\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
